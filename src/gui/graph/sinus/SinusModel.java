@@ -1,4 +1,4 @@
-package gui.graphics.sinus;
+package gui.graph.sinus;
 
 public class SinusModel
 {

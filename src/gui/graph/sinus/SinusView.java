@@ -1,4 +1,4 @@
-package gui.graphics.sinus;
+package gui.graph.sinus;
 
 import javafx.scene.control.Label;
 import javafx.scene.control.Slider;

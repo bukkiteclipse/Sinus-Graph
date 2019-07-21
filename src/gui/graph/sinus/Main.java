@@ -1,4 +1,4 @@
-package gui.graphics.sinus;
+package gui.graph.sinus;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
